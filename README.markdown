@@ -1,8 +1,8 @@
-# TITLE
+# Rock Paper Scissors
 
 ## About
 
-Best of Ruby Quiz, Chapter #
+Best of Ruby Quiz, Chapter 9
 
 ## Requirements
 
