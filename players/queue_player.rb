@@ -1,6 +1,6 @@
 class QueuePlayer < Player
   QUEUE = [ :rock,
-    :scissors,
+    :paper,
     :scissors ]
 
   def initialize( opponent )

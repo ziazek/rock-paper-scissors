@@ -1,7 +1,7 @@
 class RandomPlayer < Player
   QUEUE = [ :rock,
     :scissors,
-    :scissors ]
+    :paper ]
 
   def initialize( opponent )
     super

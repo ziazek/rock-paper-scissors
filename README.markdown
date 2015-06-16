@@ -22,11 +22,15 @@ Step 1. build a Random player
 
 Step 2. build a player that tries to use statistics to find which object the opponent favours, and whether there are any repetitive patterns.
 
-Step 3. build a player that follows the rules on [World RPS Society](http://worldrps.com/advanced-rps/sample-page/)
+Step 3. build a player that follows the rules on [World RPS Society](http://worldrps.com/advanced-rps/sample-page/) ?
 
 ## Results
 
 ## Review
+
+It's hard to beat a random player. 
+
+The author recommends building 'cheater' players that rewrite others' #choose methods as an exercise. 
 
 ## License
 
